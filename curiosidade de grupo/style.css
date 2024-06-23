@@ -1,0 +1,25 @@
+@charset "utf-8"
+*{
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+
+
+}
+body{
+        background-color: aquamarine;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.2em;
+
+
+
+}
+
+a{
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 1.1em;
+
+
+
+}

@@ -19,6 +19,15 @@
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
 }
+a{
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 1.1em;
+   color: #22D4FD;
+
+
+}
+
 
 body{
     box-sizing: border-box;
