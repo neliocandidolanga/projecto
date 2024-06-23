@@ -24,6 +24,8 @@ body{
     background-color: var(--cor-terciaria);
     color: var(--cor-secundaria);
     font-family: Arial, Helvetica, sans-serif,verdana;
+    margin: 0px;
+    padding: 0px;
 
    /* width: 100%;
         
